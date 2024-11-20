@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_documentasi=self.webpackChunkmy_documentasi||[]).push([[3264],{3471:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"intro-python"}')}}]);
