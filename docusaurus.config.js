@@ -133,22 +133,22 @@ const config = {
                 to: "/pemrograman/css/intro",
                 label: "css",
               },
-              {
-                to: "/pemrograman/javascript/intro",
-                label: "javascript",
-              },
+              // {
+              //   to: "/pemrograman/javascript/intro",
+              //   label: "javascript",
+              // },
               {
                 to: "/pemrograman/python/intro",
                 label: "python",
               },
-              {
-                to: "/pemrograman/php/intro",
-                label: "PHP",
-              },
-              {
-                to: "/pemrograman/typescript/intro",
-                label: "TypeScript",
-              },
+              // {
+              //   to: "/pemrograman/php/intro",
+              //   label: "PHP",
+              // },
+              // {
+              //   to: "/pemrograman/typescript/intro",
+              //   label: "TypeScript",
+              // },
             ],
           },
         ],
