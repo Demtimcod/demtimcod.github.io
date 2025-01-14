@@ -6,4 +6,4 @@ sidebar_position: 1
 
 Belajar html untuk Pemula sampai Mahir
 
-by lead [abrordc](https://github.com/abrordc)
+by lead [abrordc](https://github.com/abrorilhuda)
