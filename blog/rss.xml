@@ -4,10 +4,19 @@
         <title>DemtimCod Docs Blog</title>
         <link>https://demtimcod.github.io/blog</link>
         <description>DemtimCod Docs Blog</description>
-        <lastBuildDate>Thu, 11 Sep 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Sep 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Release Docs Data Science]]></title>
+            <link>https://demtimcod.github.io/blog/release-docs-data-science</link>
+            <guid>https://demtimcod.github.io/blog/release-docs-data-science</guid>
+            <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[saya banggga dengan pencapaian ini saya bisa merilis docs baru dari modul python tentang semoga kedepannya ini bisa saya kembangkang lagi]]></description>
+            <content:encoded><![CDATA[<p>saya banggga dengan pencapaian ini saya bisa merilis docs baru dari modul python tentang semoga kedepannya ini bisa saya kembangkang lagi</p>
+<p>Sungguh pencapaian yang menginspirasi! Selamat atas dedikasi dan kerja keras Anda yang telah membuahkan hasil berupa rilis docs baru untuk modul Python tentang Data Science. Merilis dokumentasi baru adalah langkah monumental yang menunjukkan komitmen kuat Anda dalam berbagi pengetahuan dan berkontribusi pada komunitas. Dokumen yang rapi dan mudah diakses, sangat vital dalam dunia pemrograman; ini bukan hanya sekadar kumpulan materi, melainkan jembatan yang menghubungkan konsep kompleks <a href="https://demtimcod.github.io/pemrograman/python/data-science/intro" target="_blank" rel="noopener noreferrer">data science</a> dengan para pembelajar di berbagai tingkat keahlian. Kami sangat menghargai inisiatif Anda untuk membuka forum diskusi di <a href="https://github.com/Demtimcod/tanya-tanya-demtimcod/issues" target="_blank" rel="noopener noreferrer">diskusi ini</a>, menunjukkan kerendahan hati dan keinginan untuk terus meningkatkan kualitas materi berdasarkan masukan dari pembaca—sikap proaktif ini adalah ciri khas dari seorang kontributor yang hebat. Semoga rilis ini menjadi batu loncatan untuk proyek-proyek yang lebih besar di masa depan. Teruslah berkarya, kembangkan modul ini lebih jauh lagi, dan yakinkanlah bahwa kontribusi Anda ini akan membantu banyak orang dalam memahami dan menguasai Data Science. Ini adalah awal yang luar biasa, dan kami semua menantikan inovasi serta pembaruan menarik lainnya yang akan Anda hadirkan. Sukses selalu!</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Release  web documentasion comunity]]></title>
             <link>https://demtimcod.github.io/blog/release-web-documentasion</link>
@@ -24,8 +33,9 @@
             <link>https://demtimcod.github.io/blog/welcome</link>
             <guid>https://demtimcod.github.io/blog/welcome</guid>
             <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ini adalah ruang di mana Anda dapat menemukan semua yang perlu Anda ketahui tentang komunitas kami—mulai dari cara berkontribusi, panduan memulai, hingga detail proyek yang sedang berjalan. Dokumentasi ini dibuat dan dikembangkan oleh anggota komunitas, jadi jika Anda melihat ada sesuatu yang kurang atau bisa diperbaiki, jangan ragu untuk berikan masukan atau bahkan mengeditnya.]]></description>
-            <content:encoded><![CDATA[<p>Ini adalah ruang di mana Anda dapat menemukan semua yang perlu Anda ketahui tentang komunitas kami—mulai dari cara berkontribusi, panduan memulai, hingga detail proyek yang sedang berjalan. Dokumentasi ini dibuat dan dikembangkan oleh anggota komunitas, jadi jika Anda melihat ada sesuatu yang kurang atau bisa diperbaiki, jangan ragu untuk berikan masukan atau bahkan mengeditnya.</p>]]></content:encoded>
+            <description><![CDATA[Ini adalah ruang di mana Anda dapat menemukan semua yang perlu Anda ketahui tentang komunitas kami—mulai dari cara berkontribusi,]]></description>
+            <content:encoded><![CDATA[<p>Ini adalah ruang di mana Anda dapat menemukan semua yang perlu Anda ketahui tentang komunitas kami—mulai dari cara berkontribusi,</p>
+<p>panduan memulai, hingga detail proyek yang sedang berjalan. Dokumentasi ini dibuat dan dikembangkan oleh anggota komunitas, jadi jika Anda melihat ada sesuatu yang kurang atau bisa diperbaiki, jangan ragu untuk berikan masukan atau bahkan mengeditnya.</p>]]></content:encoded>
             <category>Facebook</category>
             <category>Hello</category>
             <category>Docusaurus</category>

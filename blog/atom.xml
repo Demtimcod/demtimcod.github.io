@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://demtimcod.github.io/blog</id>
     <title>DemtimCod Docs Blog</title>
-    <updated>2025-09-11T00:00:00.000Z</updated>
+    <updated>2025-09-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://demtimcod.github.io/blog"/>
     <subtitle>DemtimCod Docs Blog</subtitle>
     <icon>https://demtimcod.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Release Docs Data Science]]></title>
+        <id>https://demtimcod.github.io/blog/release-docs-data-science</id>
+        <link href="https://demtimcod.github.io/blog/release-docs-data-science"/>
+        <updated>2025-09-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[saya banggga dengan pencapaian ini saya bisa merilis docs baru dari modul python tentang semoga kedepannya ini bisa saya kembangkang lagi]]></summary>
+        <content type="html"><![CDATA[<p>saya banggga dengan pencapaian ini saya bisa merilis docs baru dari modul python tentang semoga kedepannya ini bisa saya kembangkang lagi</p>
+<p>Sungguh pencapaian yang menginspirasi! Selamat atas dedikasi dan kerja keras Anda yang telah membuahkan hasil berupa rilis docs baru untuk modul Python tentang Data Science. Merilis dokumentasi baru adalah langkah monumental yang menunjukkan komitmen kuat Anda dalam berbagi pengetahuan dan berkontribusi pada komunitas. Dokumen yang rapi dan mudah diakses, sangat vital dalam dunia pemrograman; ini bukan hanya sekadar kumpulan materi, melainkan jembatan yang menghubungkan konsep kompleks <a href="https://demtimcod.github.io/pemrograman/python/data-science/intro" target="_blank" rel="noopener noreferrer">data science</a> dengan para pembelajar di berbagai tingkat keahlian. Kami sangat menghargai inisiatif Anda untuk membuka forum diskusi di <a href="https://github.com/Demtimcod/tanya-tanya-demtimcod/issues" target="_blank" rel="noopener noreferrer">diskusi ini</a>, menunjukkan kerendahan hati dan keinginan untuk terus meningkatkan kualitas materi berdasarkan masukan dari pembaca—sikap proaktif ini adalah ciri khas dari seorang kontributor yang hebat. Semoga rilis ini menjadi batu loncatan untuk proyek-proyek yang lebih besar di masa depan. Teruslah berkarya, kembangkan modul ini lebih jauh lagi, dan yakinkanlah bahwa kontribusi Anda ini akan membantu banyak orang dalam memahami dan menguasai Data Science. Ini adalah awal yang luar biasa, dan kami semua menantikan inovasi serta pembaruan menarik lainnya yang akan Anda hadirkan. Sukses selalu!</p>]]></content>
+        <author>
+            <name>Abrordc</name>
+            <uri>https://github.com/AbrorilHuda</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Release  web documentasion comunity]]></title>
         <id>https://demtimcod.github.io/blog/release-web-documentasion</id>
@@ -27,8 +40,9 @@
         <id>https://demtimcod.github.io/blog/welcome</id>
         <link href="https://demtimcod.github.io/blog/welcome"/>
         <updated>2025-09-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ini adalah ruang di mana Anda dapat menemukan semua yang perlu Anda ketahui tentang komunitas kami—mulai dari cara berkontribusi, panduan memulai, hingga detail proyek yang sedang berjalan. Dokumentasi ini dibuat dan dikembangkan oleh anggota komunitas, jadi jika Anda melihat ada sesuatu yang kurang atau bisa diperbaiki, jangan ragu untuk berikan masukan atau bahkan mengeditnya.]]></summary>
-        <content type="html"><![CDATA[<p>Ini adalah ruang di mana Anda dapat menemukan semua yang perlu Anda ketahui tentang komunitas kami—mulai dari cara berkontribusi, panduan memulai, hingga detail proyek yang sedang berjalan. Dokumentasi ini dibuat dan dikembangkan oleh anggota komunitas, jadi jika Anda melihat ada sesuatu yang kurang atau bisa diperbaiki, jangan ragu untuk berikan masukan atau bahkan mengeditnya.</p>]]></content>
+        <summary type="html"><![CDATA[Ini adalah ruang di mana Anda dapat menemukan semua yang perlu Anda ketahui tentang komunitas kami—mulai dari cara berkontribusi,]]></summary>
+        <content type="html"><![CDATA[<p>Ini adalah ruang di mana Anda dapat menemukan semua yang perlu Anda ketahui tentang komunitas kami—mulai dari cara berkontribusi,</p>
+<p>panduan memulai, hingga detail proyek yang sedang berjalan. Dokumentasi ini dibuat dan dikembangkan oleh anggota komunitas, jadi jika Anda melihat ada sesuatu yang kurang atau bisa diperbaiki, jangan ragu untuk berikan masukan atau bahkan mengeditnya.</p>]]></content>
         <author>
             <name>Abrordc</name>
             <uri>https://github.com/AbrorilHuda</uri>
