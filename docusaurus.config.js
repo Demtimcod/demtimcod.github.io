@@ -5,6 +5,8 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes } from "prism-react-renderer";
+import math from "remark-math";
+import katex from "rehype-katex";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -23,7 +25,7 @@ const config = {
   organizationName: "demtimcod", // Usually your GitHub org/user name.
   projectName: "demtimcod.github.io", // Usually your repo name.
 
-  onBrokenLinks: "warn",
+  onBrokenLinks: "warn", // throw
   onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
@@ -33,38 +35,31 @@ const config = {
     defaultLocale: "en",
     locales: ["en"],
   },
-
   presets: [
     [
       "classic",
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
           sidebarPath: "./sidebars.js",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl: "/",
+          remarkPlugins: [[math, { singleDollarTextMath: true }]],
+          rehypePlugins: [katex],
         },
         blog: {
           showReadingTime: true,
-          feedOptions: {
-            type: ["rss", "atom"],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          feedOptions: { type: ["rss", "atom"], xslt: true },
           editUrl: "/",
-          // Useful options to enforce blogging best practices
+          remarkPlugins: [[math, { singleDollarTextMath: true }]],
+          rehypePlugins: [katex],
           onInlineTags: "warn",
           onInlineAuthors: "warn",
           onUntruncatedBlogPosts: "warn",
         },
-        theme: {
-          customCss: "./src/css/custom.css",
-        },
-      }),
+        theme: { customCss: "./src/css/custom.css" },
+      },
     ],
   ],
+
   plugins: [
     [
       "@docusaurus/plugin-content-docs",
@@ -82,6 +77,10 @@ const config = {
         path: "articles/pemrograman/python",
         routeBasePath: "pemrograman/python",
         sidebarPath: require.resolve("./sidebars.js"),
+
+        remarkPlugins: [[math, { singleDollarTextMath: true }]],
+        rehypePlugins: [katex],
+        include: ["**/*.{md,mdx}"],
       },
     ],
     [
@@ -93,6 +92,15 @@ const config = {
         sidebarPath: require.resolve("./sidebars.js"),
       },
     ],
+    "./src/plugins/tailwind-config.js",
+  ],
+
+  stylesheets: [
+    {
+      href: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css",
+      type: "text/css",
+      crossorigin: "anonymous",
+    },
   ],
 
   themeConfig:
